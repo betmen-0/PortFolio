@@ -23,11 +23,11 @@ This Is Purely Based on FrontEnd
 Well It is Not directly usable but for collaborator or if someone likes my work He/She
 Can Directly Contact me.
 
-## 📱 Responsive Design
+## Responsive Design
 
 The portfolio is responsive :
 - Mobile devices (< 768px)
 - Tablets (768px - 1024px)  
 - Desktops (> 1024px)
 
-**Thank You** 
+## Thank You 
