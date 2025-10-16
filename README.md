@@ -10,7 +10,7 @@ A Porfolio Website of Myself Using HTML/CSS And Animation in the website , which
 
 ## How I Built It
 
-This portfolio was built from scratch using vanilla HTML, CSS, and JavaScript. 
+This portfolio was built from scratch using vanilla HTML, CSS, and JavaScript (Super Minimal). 
 - **Clean and Structured code**
 - **Advanced CSS Is used**
 
