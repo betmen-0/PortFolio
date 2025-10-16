@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A Porfolio Website Using HTML/CSS And Animation in the website of Myself , which will let the user connect to me for their future work or collaboration
+A Porfolio Website of Myself Using HTML/CSS And Animation in the website , which will let the user connect to me for their future work or collaboration
 
 ## Why I Built This Project
 
